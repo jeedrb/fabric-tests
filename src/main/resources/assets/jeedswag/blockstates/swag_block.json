@@ -1,6 +1,5 @@
 {
     "variants": {
-      "": { "model": "jeedswag:block/swag_block" }
+        "": { "model": "jeedswag:block/swag_block" }
     }
-  }
-
+}
